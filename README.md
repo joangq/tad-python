@@ -1,4 +1,4 @@
-# Tipos Abstractos de Datos en Python
+# TAD • Python
 
 Ésta biblioteca es una utilidad para trabajar con TADs (Tipos Abstractos de Datos) en Python. La idea es poder crear clases primero de manera abstracta, especificando qué funciones son observadores, generadores u otras operaciones; junto con
 una serie de axiomas para la corroboración de correctitud. Usando los decoradores, luego se puede crear automáticamente código en LaTeX para visualizar el TAD correctamente. Adicionalmente, se podría hacer un uso inteligente de
